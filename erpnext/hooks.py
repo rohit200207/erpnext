@@ -1,5 +1,5 @@
-app_name = "erpnext"
-app_title = "ERPNext"
+app_name = "SMERPNext"
+app_title = "SMERPNext"
 app_publisher = "Software Mathematics Pvt. Ltd."
 app_description = """SMERP made simple"""
 app_icon = "fa fa-th"
